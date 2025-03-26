@@ -1,0 +1,6 @@
+@BookCatalog.API_HostAddress = http://localhost:5260
+
+GET {{BookCatalog.API_HostAddress}}/books/
+Accept: application/json
+
+###
